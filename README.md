@@ -100,8 +100,6 @@ You are free to use, modify, and share the content.
 
 ## ✨ Author
 
-**Yogesh Tandan**  
-Junior Software Developer  
-Learning DevOps one pipeline at a time.
+**Yogesh Tandan** 
 
 ---
